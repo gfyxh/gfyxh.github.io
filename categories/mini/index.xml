@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mini on Monologue的博客</title>
+    <link>http://guo_feiyu.gitee.io/categories/mini/</link>
+    <description>Recent content in mini on Monologue的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Wed, 18 Dec 2019 21:55:00 +0800</lastBuildDate>
+    
+	<atom:link href="http://guo_feiyu.gitee.io/categories/mini/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>                      </title>
+      <link>http://guo_feiyu.gitee.io/post/0714/</link>
+      <pubDate>Wed, 18 Dec 2019 21:55:00 +0800</pubDate>
+      
+      <guid>http://guo_feiyu.gitee.io/post/0714/</guid>
+      <description>舍友镇楼，纪念大一！</description>
+    </item>
+    
+    <item>
+      <title>                      简述创建博客的心得体会</title>
+      <link>http://guo_feiyu.gitee.io/post/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E4%BD%93%E4%BC%9A%E7%AE%80%E8%BF%B0/</link>
+      <pubDate>Wed, 18 Dec 2019 21:55:00 +0800</pubDate>
+      
+      <guid>http://guo_feiyu.gitee.io/post/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E4%BD%93%E4%BC%9A%E7%AE%80%E8%BF%B0/</guid>
+      <description>简述创建博客的心得体会 1，去年寒假搭建博客就进行了很长时间，从一开始接触Github，搭建博客看视频教程，主要还是没有看到经典的教程，很多太宽泛，光看他们的指令自己实现起来又是另外一回事，出现了很多错误，其中延续到现在的就是GitHub的https克隆仍然有错误，现在我用ssh方</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Monologue的博客</title>
+    <link>http://guo_feiyu.gitee.io/categories/</link>
+    <description>Recent content in Categories on Monologue的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Wed, 18 Dec 2019 21:55:00 +0800</lastBuildDate>
+    
+	<atom:link href="http://guo_feiyu.gitee.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Golang</title>
+      <link>http://guo_feiyu.gitee.io/categories/Golang/</link>
+      <pubDate>Wed, 18 Dec 2019 21:55:00 +0800</pubDate>
+      
+      <guid>http://guo_feiyu.gitee.io/categories/Golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mini</title>
+      <link>http://guo_feiyu.gitee.io/categories/mini/</link>
+      <pubDate>Wed, 18 Dec 2019 21:55:00 +0800</pubDate>
+      
+      <guid>http://guo_feiyu.gitee.io/categories/mini/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

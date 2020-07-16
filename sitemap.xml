@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://guo_feiyu.gitee.io/post/0714/</loc>
+    <lastmod>2019-12-18T21:55:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://guo_feiyu.gitee.io/post/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E4%BD%93%E4%BC%9A%E7%AE%80%E8%BF%B0/</loc>
+    <lastmod>2019-12-18T21:55:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://guo_feiyu.gitee.io/categories/</loc>
+    <lastmod>2019-12-18T21:55:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://guo_feiyu.gitee.io/categories/Golang/</loc>
+    <lastmod>2019-12-18T21:55:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://guo_feiyu.gitee.io/tags/golang/</loc>
+    <lastmod>2019-12-18T21:55:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://guo_feiyu.gitee.io/2019/12/18/golang-gin-query-parameters-array-map.html</loc>
+    <lastmod>2019-12-18T21:55:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://guo_feiyu.gitee.io/categories/mini/</loc>
+    <lastmod>2019-12-18T21:55:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://guo_feiyu.gitee.io/tags/minibus/</loc>
+    <lastmod>2019-12-18T21:55:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://guo_feiyu.gitee.io/</loc>
+    <lastmod>2019-12-18T21:55:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://guo_feiyu.gitee.io/post/</loc>
+    <lastmod>2019-12-18T21:55:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://guo_feiyu.gitee.io/tags/</loc>
+    <lastmod>2019-12-18T21:55:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://guo_feiyu.gitee.io/post/2019-12-13-golang-gin-parameters-in-path/</loc>
+    <lastmod>2019-12-13T21:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://guo_feiyu.gitee.io/post/2019-12-15-golang-gin-query-parameters-source-code-analysis/</loc>
+    <lastmod>2019-12-13T21:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://guo_feiyu.gitee.io/about/</loc>
+  </url>
+  
+  <url>
+    <loc>http://guo_feiyu.gitee.io/archives/</loc>
+  </url>
+  
+  <url>
+    <loc>http://guo_feiyu.gitee.io/search/</loc>
+  </url>
+  
+</urlset>
