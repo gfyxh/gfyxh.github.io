@@ -2,84 +2,84 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Monologue的博客</title>
-    <link>http://guo_feiyu.gitee.io/</link>
+    <link>https://gfyxh.github.io/</link>
     <description>Recent content on Monologue的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <lastBuildDate>Wed, 18 Dec 2019 21:55:00 +0800</lastBuildDate>
     
-	<atom:link href="http://guo_feiyu.gitee.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://gfyxh.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>                      </title>
-      <link>http://guo_feiyu.gitee.io/post/0714/</link>
+      <link>https://gfyxh.github.io/post/0714/</link>
       <pubDate>Wed, 18 Dec 2019 21:55:00 +0800</pubDate>
       
-      <guid>http://guo_feiyu.gitee.io/post/0714/</guid>
+      <guid>https://gfyxh.github.io/post/0714/</guid>
       <description>舍友镇楼，纪念大一！</description>
     </item>
     
     <item>
       <title>                      简述创建博客的心得体会</title>
-      <link>http://guo_feiyu.gitee.io/post/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E4%BD%93%E4%BC%9A%E7%AE%80%E8%BF%B0/</link>
+      <link>https://gfyxh.github.io/post/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E4%BD%93%E4%BC%9A%E7%AE%80%E8%BF%B0/</link>
       <pubDate>Wed, 18 Dec 2019 21:55:00 +0800</pubDate>
       
-      <guid>http://guo_feiyu.gitee.io/post/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E4%BD%93%E4%BC%9A%E7%AE%80%E8%BF%B0/</guid>
+      <guid>https://gfyxh.github.io/post/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E4%BD%93%E4%BC%9A%E7%AE%80%E8%BF%B0/</guid>
       <description>简述创建博客的心得体会 1，去年寒假搭建博客就进行了很长时间，从一开始接触Github，搭建博客看视频教程，主要还是没有看到经典的教程，很多太宽泛，光看他们的指令自己实现起来又是另外一回事，出现了很多错误，其中延续到现在的就是GitHub的https克隆仍然有错误，现在我用ssh方</description>
     </item>
     
     <item>
       <title>Golang Gin 实战（五）| 接收数组和 Map</title>
-      <link>http://guo_feiyu.gitee.io/2019/12/18/golang-gin-query-parameters-array-map.html</link>
+      <link>https://gfyxh.github.io/2019/12/18/golang-gin-query-parameters-array-map.html</link>
       <pubDate>Wed, 18 Dec 2019 21:55:00 +0800</pubDate>
       
-      <guid>http://guo_feiyu.gitee.io/2019/12/18/golang-gin-query-parameters-array-map.html</guid>
+      <guid>https://gfyxh.github.io/2019/12/18/golang-gin-query-parameters-array-map.html</guid>
       <description>标题 段落内容 标题 段落内容 标题 段落内容 标题 段落内容 标题 段落内容</description>
     </item>
     
     <item>
       <title>Golang Gin 实战（三）| 路由参数</title>
-      <link>http://guo_feiyu.gitee.io/post/2019-12-13-golang-gin-parameters-in-path/</link>
+      <link>https://gfyxh.github.io/post/2019-12-13-golang-gin-parameters-in-path/</link>
       <pubDate>Fri, 13 Dec 2019 21:00:00 +0800</pubDate>
       
-      <guid>http://guo_feiyu.gitee.io/post/2019-12-13-golang-gin-parameters-in-path/</guid>
+      <guid>https://gfyxh.github.io/post/2019-12-13-golang-gin-parameters-in-path/</guid>
       <description>标题 段落内容 标题 段落内容 标题 段落内容 标题 段落内容 标题 段落内容</description>
     </item>
     
     <item>
       <title>Golang Gin 实战（三）| 路由参数</title>
-      <link>http://guo_feiyu.gitee.io/post/2019-12-15-golang-gin-query-parameters-source-code-analysis/</link>
+      <link>https://gfyxh.github.io/post/2019-12-15-golang-gin-query-parameters-source-code-analysis/</link>
       <pubDate>Fri, 13 Dec 2019 21:00:00 +0800</pubDate>
       
-      <guid>http://guo_feiyu.gitee.io/post/2019-12-15-golang-gin-query-parameters-source-code-analysis/</guid>
+      <guid>https://gfyxh.github.io/post/2019-12-15-golang-gin-query-parameters-source-code-analysis/</guid>
       <description>标题 段落内容 标题 段落内容 标题 段落内容 标题 段落内容 标题 段落内容</description>
     </item>
     
     <item>
       <title>关于我</title>
-      <link>http://guo_feiyu.gitee.io/about/</link>
+      <link>https://gfyxh.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://guo_feiyu.gitee.io/about/</guid>
+      <guid>https://gfyxh.github.io/about/</guid>
       <description>目前在校大学生，自学Java，Android 项目开发 个人微信名片，欢迎技术交流</description>
     </item>
     
     <item>
       <title>归档</title>
-      <link>http://guo_feiyu.gitee.io/archives/</link>
+      <link>https://gfyxh.github.io/archives/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://guo_feiyu.gitee.io/archives/</guid>
+      <guid>https://gfyxh.github.io/archives/</guid>
       <description></description>
     </item>
     
     <item>
       <title>搜索</title>
-      <link>http://guo_feiyu.gitee.io/search/</link>
+      <link>https://gfyxh.github.io/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://guo_feiyu.gitee.io/search/</guid>
+      <guid>https://gfyxh.github.io/search/</guid>
       <description></description>
     </item>
     
